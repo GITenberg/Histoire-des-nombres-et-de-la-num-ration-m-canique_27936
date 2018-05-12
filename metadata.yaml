@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33025'
     url: http://www.gutenberg.org/2009/agents/33025
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27936#Histoire-des-nombres-et-de-la-num-ration-m-canique
 gutenberg_bookshelf:
 - Mathematics
 - FR Sciences et Techniques
