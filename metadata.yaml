@@ -1,0 +1,29 @@
+_repo: Histoire-des-nombres-et-de-la-num-ration-m-canique_27936
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jacomy-Régnier
+    alias: Jacomy-Regnier
+    gutenberg_agent_id: '33025'
+    url: http://www.gutenberg.org/2009/agents/33025
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- FR Sciences et Techniques
+gutenberg_issued: '2009-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27936'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mathematical instruments'
+- !lcc 'QA'
+- !lcsh 'Calculators'
+title: Histoire des nombres et de la numération mécanique
+url: http://www.gutenberg.org/ebooks/27936
